@@ -1,0 +1,9 @@
+s=images/coin small.png
+1=images/blue_brick.png
+0=images/red_brick.png
+^=images/spike.png
+S=images/gumball.png
+G=images/gumball_girl.png
+T=images/power_orb.png
+E=images/teleporter.png
+e=images/teleport_off.png
