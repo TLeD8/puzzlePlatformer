@@ -1,6 +1,6 @@
 
 /*******************************************************************************************************
- * @author aarontr1, DSawtelle, pinghsu520, tylerleduc98
+ * @author TLeD8
  * 
  * This class contains the JUnit test case(s) for the puzzle platformer project
  ******************************************************************************************************/

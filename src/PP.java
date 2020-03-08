@@ -3,7 +3,7 @@ import java.awt.Toolkit;
 import javafx.application.Application;
 
 /*******************************************************************************************************
- * @author aarontr1, DSawtelle, pinghsu520, tylerleduc98
+ * @author TLeD8
  * 
  * Plays a Puzzle Platformer game where you control a character with the objective of reaching its partner.
  ******************************************************************************************************/

@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * This class contains the methods that update game data and the view.
- * @author aarontr1, DSawtelle, pinghsu520, tylerleduc98
+ * @author TLeD8
  ******************************************************************************************************/
 import java.io.File;
 import java.io.FileNotFoundException;
