@@ -3,7 +3,7 @@
  * build the game scene, a menu and the ability to save and load games. Changes to the view are
  * done by making calls to the appropriate methods in the controller depending on key inputs.
  * 
- * @author TLeD8
+ * @author Tyler-LeDuc
  ******************************************************************************************************/
 import java.io.File;
 import java.io.FileInputStream;
